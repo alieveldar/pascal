@@ -1,0 +1,4 @@
+var B : string;
+begin
+Writeln(B);
+end.
