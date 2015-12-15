@@ -1,0 +1,14 @@
+var S:string;
+begin
+        writeln('Password?'); Readln(S);
+        if S ='pascal' then begin
+                Writeln('Open dors!');
+                Writeln('MUZIK!!!');
+                Writeln('Go in!')
+        end else begin
+                writeln('TREVOGA!');
+                writeln('Take him!')
+                end;
+        writeln('Pass enter');
+        rewadln;
+end.

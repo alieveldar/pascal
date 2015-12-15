@@ -1,0 +1,7 @@
+var s : string;
+begin
+writeln('Enter Password'); readln(s);
+if s='pascal'
+        writeln('You good boy')
+        else writeln('You stupid guy!');
+end.
