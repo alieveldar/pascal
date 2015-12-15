@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <Compiler Value="/usr/bin/fpc" Date="1449313866"/>
+  <Params Value=" -MObjFPC -Scghi -Cg -O1 -g -gl -l -vewnhibq -Fi/home/modus/Pascal/lib/x86_64-linux -Fl/opt/gnome/lib -Fu/usr/share/lazarus/1.6RC1/lcl/units/x86_64-linux/gtk2 -Fu/usr/share/lazarus/1.6RC1/lcl/units/x86_64-linux -Fu/usr/share/lazarus/1.6RC1/components/lazutils/lib/x86_64-linux -Fu/usr/share/lazarus/1.6RC1/packager/units/x86_64-linux -Fu/home/modus/Pascal/ -FU/home/modus/Pascal/lib/x86_64-linux/ -dLCL -dLCLgtk2 wwd.lpr"/>
+  <Complete Value="False"/>
+</CONFIG>
