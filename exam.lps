@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="exam.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="70" Y="9"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="exam.pas"/>
+        <Caret Line="15" Column="12"/>
+      </Position1>
+      <Position2>
+        <Filename Value="exam.pas"/>
+        <Caret Line="9" Column="104"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
